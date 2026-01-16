@@ -1,4 +1,4 @@
-# chat_together
+# Chat Together
 
 I found a way to talk with your family in Iran 
 
