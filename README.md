@@ -1,16 +1,7 @@
-# bale_phone
+# chat_together
 
-A new Flutter project.
+I found a way to talk with your family in Iran 
 
-## Getting Started
+I will explain how it works later. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Star if it useful for you :)
